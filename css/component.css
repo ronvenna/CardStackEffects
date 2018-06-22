@@ -9,8 +9,118 @@
     pointer-events: none;
 }
 
-.stack__item {
-	background: #fff;
+.stack__item1 {
+	background: #E5AEC3;
+	height: 100%;
+	width: 100%;
+	border-radius: 4px;
+	text-align: center;
+	overflow: hidden;
+	position: absolute;
+	opacity: 0;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-flex-direction: column;
+	flex-direction: column;
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	pointer-events: auto;
+}
+
+.stack__item2 {
+	background: #B7DCE5;
+	height: 100%;
+	width: 100%;
+	border-radius: 4px;
+	text-align: center;
+	overflow: hidden;
+	position: absolute;
+	opacity: 0;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-flex-direction: column;
+	flex-direction: column;
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	pointer-events: auto;
+}
+
+.stack__item3 {
+	background: #BABCDD;
+	height: 100%;
+	width: 100%;
+	border-radius: 4px;
+	text-align: center;
+	overflow: hidden;
+	position: absolute;
+	opacity: 0;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-flex-direction: column;
+	flex-direction: column;
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	pointer-events: auto;
+}
+
+.stack__item4 {
+	background: #D8E7BE;
+	height: 100%;
+	width: 100%;
+	border-radius: 4px;
+	text-align: center;
+	overflow: hidden;
+	position: absolute;
+	opacity: 0;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-flex-direction: column;
+	flex-direction: column;
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	pointer-events: auto;
+}
+
+.stack__item5 {
+	background: #B2D7D3;
+	height: 100%;
+	width: 100%;
+	border-radius: 4px;
+	text-align: center;
+	overflow: hidden;
+	position: absolute;
+	opacity: 0;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-flex-direction: column;
+	flex-direction: column;
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	pointer-events: auto;
+}
+
+.stack__item6 {
+	background: #EBC0B1;
 	height: 100%;
 	width: 100%;
 	border-radius: 4px;

@@ -52,6 +52,7 @@ button:focus {
 	padding: 2em 1em 4em;
 	text-align: center;
 	color: #fff;
+	background: #1D1C3C;
 }
 
 .codrops-header h1 {
@@ -67,7 +68,7 @@ button:focus {
 	margin: 0.5em 0;
 	font-size: 50%;
 	letter-spacing: 0;
-	color: #fffb00;
+	color: #76B89D;
 }
 
 /* Top Navigation Style */
